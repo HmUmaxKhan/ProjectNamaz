@@ -1,9 +1,10 @@
-import Gaugemeter from "./(GaugeMeter)/Gaugemeter";
+
+import Select from "./Select";
 
 export default function Home() {
   return (
     <main>
-      <Gaugemeter />
+      <Select />
     </main>
   );
 }
