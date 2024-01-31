@@ -1,4 +1,4 @@
-import React from 'react'
+"use client"
 import ReadingQuran from './ReadingQuran'
 import CurrentDate from '@/app/(Shared Components)/CurrentDate'
 

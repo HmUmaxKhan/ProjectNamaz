@@ -1,4 +1,4 @@
-import React from 'react'
+"use client"
 import Select from './Select'
 import CurrentDate from '@/app/(Shared Components)/CurrentDate'
 
